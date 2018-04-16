@@ -1,5 +1,5 @@
 import ANN
 
-obj = ANN.ann()
+obj = ANN.Ann()
 
-obj.get_data()
+obj.neural_network()
